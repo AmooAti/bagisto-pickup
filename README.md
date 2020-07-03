@@ -9,7 +9,7 @@ This extension allows your customers to collect their orders from your physical 
 1. Run the following command
 
 ```php
-composer require ghermans/bagistopay
+composer require digibytes/pickup
 ```
 
 2. Go to https://<your-site>/admin/configuration/sales/carriers.
