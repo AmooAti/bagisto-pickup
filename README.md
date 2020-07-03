@@ -17,7 +17,8 @@ composer require digibytes/pickup
 
 ### Install with package folder
 1. Unzip all the files to **packages/Digibytes/Pickup**.
-2. Go to https://<your-site>/admin/configuration/sales/carriers.
-3. Make sure that **Picking up at the store** is active and press save.
+2. Open config/app.php and add **Digibytes\Pickup\Providers\PickupServiceProvider::class**.
+3. Go to https://<your-site>/admin/configuration/sales/carriers.
+4. Make sure that **Picking up at the store** is active and press save.
 
 Your customers are now able to select the new shipping method.
