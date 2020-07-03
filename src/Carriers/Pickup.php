@@ -7,7 +7,7 @@ use Webkul\Checkout\Models\CartShippingRate;
 use Webkul\Shipping\Carriers\AbstractShipping;
 
 /**
- * Class Rate.
+ * Class Pickup.
  *
  */
 class Pickup extends AbstractShipping
