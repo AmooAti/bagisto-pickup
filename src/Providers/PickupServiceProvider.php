@@ -25,7 +25,6 @@ class PickupServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->loadRoutesFrom(__DIR__.'/../Http/routes.php');
         $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'pickup');
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'pickup');
     }
