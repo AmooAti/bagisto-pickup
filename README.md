@@ -8,7 +8,7 @@ This extension allows your customers to collect their orders from your physical 
 ## Installation
 1. Run the following command
 
-```bash
+```php
 composer require ghermans/bagistopay
 ```
 
