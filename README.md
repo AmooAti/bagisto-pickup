@@ -1,4 +1,5 @@
 # Bagisto Pickup
+![Packagist Downloads](https://img.shields.io/packagist/dt/digibytes/pickup)
 
 This extension allows your customers to collect their orders from your physical store.
 
