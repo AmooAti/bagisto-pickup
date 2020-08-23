@@ -20,7 +20,7 @@
                 "Digibytes\\Pickup\\Providers\\PickupServiceProvider"
             ],
         }
-    }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
