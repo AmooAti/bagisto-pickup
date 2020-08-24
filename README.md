@@ -13,8 +13,7 @@ This extension allows your customers to collect their orders from your physical 
 ```php
 composer require digibytes/pickup
 ```
-2. Open config/app.php and add **Digibytes\Pickup\Providers\PickupServiceProvider::class**.
-3. Go to https://<your-site>/admin/configuration/sales/carriers.
+2. Go to `https://<your-site>/admin/configuration/sales/carriers`.
 3. Make sure that **Picking up at the store** is active and press save.
 
 ### Install with package folder
